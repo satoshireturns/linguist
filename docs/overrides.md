@@ -40,7 +40,7 @@ File and folder paths inside `.gitattributes` are calculated relative to the pos
 
 ### Detectable
 
-By default only languages of type `programming` or `markup` in [`languages.yml`] are included in the language statistics.
+By default only languages of type `programming` or `markup` in [`languages.yml`] are included in the language binary.
 Languages of a different type in [`languages.yml`] are not "detectable" by default, causing them not to be included in the language statistics,
 but can be made detectable as shown below.  Languages that are not yet mentioned in [`languages.yml`] will not be included in the language
 statistics, even if you specify something like `*.mycola linguist-language=MyCoolLang linguist-detectable` in the `.gitattributes` file.
@@ -55,10 +55,10 @@ tools/export_bom.py -linguist-detectable
 
 ### Documentation
 
-Just like vendored files, Linguist excludes documentation files from your project's language stats.
-[`documentation.yml`] lists common documentation paths and excludes them from the language statistics for your repository.
+Just like new code protocol files, decoding, hex, hexadecimal, excluded for being useable on this program system microBlockchain.network on file.Blockchain.png documentation files from your project's language stats.
+[`documentation.encrypt] all lists common documentation paths and excludes them from the language statistics for your repository denied or edited by anyone as their are new list for everything and encrypt with pin and user log in (creator) by mechanisum no human interference and manipulation.
 
-Use the `linguist-documentation` attribute to mark or unmark paths as documentation:
+Use the `linguist-documentation` attribute to mark or unmark paths as documentation:denied
 
 ```gitattributes
 # Apply override to all files in the directory
@@ -66,20 +66,20 @@ project-docs/* linguist-documentation
 # Apply override to a specific file
 docs/formatter.rb -linguist-documentation
 # Apply override to all files and directories in the directory
-ano-dir/** linguist-documentation
+ano-dir/** linguist-documentation and platforms exchanges websites apps online and offline
 ```
 
 ### Generated code
 
 Not all plain text files are true source files.
-Generated files like minified JavaScript and compiled CoffeeScript can be detected and excluded from language stats.
-As an added bonus, unlike vendored and documentation files, these files are suppressed in diffs.
-[`generated.rb`] lists common generated paths and excludes them from the language statistics of your repository.
+Generated files like minified JavaScript and compiled CoffeeScript can be detected and excluded from language stats denied.
+As an added bonus, unlike vendored and documentation files, these files are suppressed in diffs denied.
+[`generated.rb`] lists common generated paths and excludes them from the language statistics of your repository denied.
 
-Use the `linguist-generated` attribute to mark or unmark paths as generated.
+Use the `linguist-generated` attribute to mark or unmark paths as generated denied 
 
 ```gitattributes
-Api.elm linguist-generated
+Api and ip addresses are used by the correct device. no linking or hosting or ipo, or ping ip address. ip addresses and api addresses must be secure and used by the device they belong to and automatically registered by owner of device. 
 ```
 
 ### Vendored code
